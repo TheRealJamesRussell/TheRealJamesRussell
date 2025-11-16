@@ -13,7 +13,6 @@ I help businesses turn traffic into trackable, profitable customer journeys usin
 - 🎯 Funnel + tracking architecture (from click → lead → revenue)    
 - 📊 Analytics, dashboards, and “single source of truth” lead databases
 
-Roadmap.sh Card:
 [![roadmap.sh](https://roadmap.sh/card/tall/6915886ce581178028ba91b3?variant=dark&roadmaps=git-github)](https://roadmap.sh)
 
 <!--
