@@ -5,7 +5,7 @@ Performance marketer and systems builder from South Africa. But mostly. Just a n
 🌐 Personal Website: [☕TheRealJamesRussell](https://therealjamesrussell.co.za)
 
 ## Projects 👨‍💻
-[📚🔮Librarian Save Swapper](https://store.steampowered.com/app/4197610/Librarian_Tidy_Up_the_Arcane_Library/) - Unnoficial Launcher for swapping saves in the game [Librarian: Tidy Up the Arcane Library!](https://store.steampowered.com/app/4197610/Librarian_Tidy_Up_the_Arcane_Library/).
+[📚🔮Librarian Save Swapper](https://github.com/TheRealJamesRussell/librarian-save-swapper) - Unnoficial Launcher for swapping saves in the game [Librarian: Tidy Up the Arcane Library!](https://store.steampowered.com/app/4197610/Librarian_Tidy_Up_the_Arcane_Library/).
 
 
 ---
